@@ -1,0 +1,17 @@
+@media(max-width: 48em){
+    table .btn{
+        font-size: 0.75rem;
+        font-size: 3.5vw;
+    };
+}
+.jumbotron1{
+	background-image: url('hostel.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+} 
+
+.jumbotron{
+	background-color:rgb(134, 134, 141);
+	background-size: cover;
+	background-repeat: no-repeat;
+} 
